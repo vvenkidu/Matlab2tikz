@@ -15,4 +15,4 @@ Open tex document in overleaf/latex.
 \usepackage{pgfplots}
 \usepackage{tikz}
 ```
-Got it working. What do w
+pgfplots package can be used to format and edit figures using any data-set.
