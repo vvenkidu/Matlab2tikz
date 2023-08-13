@@ -9,7 +9,7 @@ Place downloaded package into "bin"
 
 Create a figure in matlab, use the package function
 matlab2tikz('figure.tikz') to generate tex document.
-Open tex document in overleaf/latex.
+Open that tex document in overleaf/latex to modify and customize figure.
 
 ``` Latex
 \usepackage{pgfplots}
